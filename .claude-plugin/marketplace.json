@@ -1,0 +1,32 @@
+{
+  "name": "jwexler10-evgenii",
+  "owner": {
+    "name": "Jason Wexler"
+  },
+  "metadata": {
+    "description": "The Evgenii skill by Jason Wexler.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "evgenii",
+      "source": "./",
+      "description": "Economic analysis of costs, incentives, opportunity costs, and uncertainty.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "claude-skills",
+        "claude-code",
+        "ai-agents",
+        "agent-skills",
+        "codex",
+        "cursor",
+        "claude-cowork",
+        "mcp",
+        "economics",
+        "unit-economics",
+        "decision-making"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "evgenii",
+  "displayName": "Evgenii",
+  "version": "1.0.0",
+  "description": "Economic analysis of costs, incentives, opportunity costs, and uncertainty.",
+  "author": {
+    "name": "Jason Wexler",
+    "url": "https://github.com/jwexler10"
+  },
+  "homepage": "https://github.com/jwexler10/evgenii-skill#readme",
+  "repository": "https://github.com/jwexler10/evgenii-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "claude-code",
+    "ai-agents",
+    "agent-skills",
+    "codex",
+    "cursor",
+    "claude-cowork",
+    "mcp",
+    "economics",
+    "unit-economics",
+    "decision-making"
+  ]
+}
